@@ -1,0 +1,17 @@
+---
+title: "Social Network Analysis_Notes"
+author: "Jun-Jie Lin"
+date: "2023-07-21"
+output: html_document
+---
+
+I am Jun-Jie Lin. This is my first Markdown document.
+
+
+Let's load some data.
+
+```{r}
+library(datasets)
+data("airquality")
+summary(airquality)
+```
